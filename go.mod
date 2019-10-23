@@ -15,10 +15,12 @@ require (
 	github.com/VividCortex/ewma v1.1.1 // indirect
 	github.com/ahmetalpbalkan/go-cursor v0.0.0-20131010032410-8136607ea412
 	github.com/alecthomas/units v0.0.0-20190910110746-680d30ca3117 // indirect
+	github.com/aws/aws-sdk-go v1.25.17
 	github.com/containerd/continuity v0.0.0-20190827140505-75bee3e2ccb6 // indirect
 	github.com/containers/image v3.0.2+incompatible
 	github.com/containers/storage v1.12.13 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.2 // indirect
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/docker/distribution v0.0.0-20170817175659-5f6282db7d65
 	github.com/docker/docker v0.0.0-20180522102801-da99009bbb11 // indirect
 	github.com/docker/docker-credential-helpers v0.6.3 // indirect
@@ -36,7 +38,7 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/golang/protobuf v1.3.2 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
-	github.com/google/go-github/v28 v28.1.1
+	github.com/google/go-github/v28 v28.1.1 // indirect
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/mux v1.7.3 // indirect
 	github.com/gotestyourself/gotestyourself v2.2.0+incompatible // indirect
